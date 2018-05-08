@@ -1,0 +1,1 @@
+Colocar nesta pasta os scripts SQL, para criação e atualização do banco de dados.
